@@ -1,4 +1,12 @@
-  ENDINGS
-1.Links of Life
 
-3.Schema Text
+ 
+# Tab indentation
+
+[*]
+
+indent_style = tab
+
+indent_size = 4
+
+trim_trailing_whitespace = true
+
